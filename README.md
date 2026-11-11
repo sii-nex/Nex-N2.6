@@ -64,3 +64,18 @@ curl -N http://localhost:8000/v1/chat/completions \
 ```
 
 The bundled chat template supports `reasoning_effort` values `low`, `high`, and `max`, defaulting to `max`. For image inputs, use image content blocks supported by your serving runtime. For tool use, supply the available tools with each request; the client or agent framework executes tool calls and returns their results.
+
+## Community
+
+Scan a QR code to join the Nex-AGI community group and connect with the team.
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="./assets/feishu-group.jpeg" alt="Feishu community group QR code" width="200" /></td>
+    <td align="center"><img src="./assets/wechat-group.png" alt="WeChat community group QR code" width="200" /></td>
+  </tr>
+  <tr>
+    <td align="center">Feishu Group (飞书社区群)</td>
+    <td align="center">WeChat Group (微信社区群)</td>
+  </tr>
+</table>
