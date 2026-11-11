@@ -5,7 +5,7 @@
 <h1 align="center">Nex-N2.6</h1>
 
 <p align="center">
-  <strong>API</strong> 👉 <a href="https://openrouter.ai/nex-agi/nex-n2.6"><strong>OpenRouter</strong></a>
+  <strong>API</strong> 👉 <a href="https://openrouter.ai/nex-agi/nex-n2.6"><strong>OpenRouter</strong></a> · <a href="https://platform.moss.cn/docs/models/nex-n2-6"><strong>MOSS</strong></a>
 </p>
 
 <p align="center">
